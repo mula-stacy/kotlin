@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d4cb848-91ad-4071-b1ca-20dc70a916b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MorningKotlinClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/datatypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/hello.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/opperators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variables.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Inheritance2 assignment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance assignment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/polymorphism.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +38,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.OpperatorsKt">
-    <configuration name="DatatypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DatatypesKt" />
+  <component name="RunManager" selected="Kotlin.Inheritance2_assignmentKt">
+    <configuration name="Inheritance2_assignmentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance2_assignmentKt" />
       <module name="MorningKotlinClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloKt" />
+    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritanceKt" />
+      <module name="MorningKotlinClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance_assignmentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance_assignmentKt" />
       <module name="MorningKotlinClass" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,20 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
-      <module name="MorningKotlinClass" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Inheritance2_assignmentKt" />
+        <item itemvalue="Kotlin.Inheritance_assignmentKt" />
+        <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.OpperatorsKt" />
         <item itemvalue="Kotlin.StringKt" />
-        <item itemvalue="Kotlin.DatatypesKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
-        <item itemvalue="Kotlin.HelloKt" />
       </list>
     </recent_temporary>
   </component>
